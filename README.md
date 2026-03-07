@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Priyanga
 
-🎯 Aspiring Data Analyst passionate about transforming data into actionable insights.
-
+🎯Data Analyst | Python • SQL • Power BI  
+Passionate about transforming raw data into actionable insights through analytics and visualization.
 ---
 
 ### 🔧 Skills & Tools
