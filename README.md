@@ -23,7 +23,9 @@ Passionate about transforming raw data into actionable insights through analytic
 Built an interactive Power BI dashboard to analyze student academic performance and attendance patterns.
 
 -Identified attendance trends affecting student grades
+
 -Built KPI cards and slicers for dynamic analysis
+
 -Improved understanding of academic performance metrics
 
 Tools Used:
