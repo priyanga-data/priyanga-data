@@ -20,10 +20,14 @@ Passionate about transforming raw data into actionable insights through analytic
 
 ### 📊 Featured Project
 **Student Performance & Attendance Analysis**
-- Built interactive Power BI dashboards
-- Analyzed academic datasets
-- Used KPIs, slicers, and charts
-- Derived insights from attendance & performance trends
+Built an interactive Power BI dashboard to analyze student academic performance and attendance patterns.
+
+-Identified attendance trends affecting student grades
+-Built KPI cards and slicers for dynamic analysis
+-Improved understanding of academic performance metrics
+
+Tools Used:
+Power BI | Data Cleaning | Data Visualization
 
 ---
 
