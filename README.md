@@ -2,6 +2,11 @@
 
 🎯Data Analyst | Python • SQL • Power BI  
 Passionate about transforming raw data into actionable insights through analytics and visualization.
+## 📊 GitHub Stats
+
+![Priyanga's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanga-data&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanga-data&layout=compact&theme=dark)
 ---
 
 ### 🔧 Skills & Tools
